@@ -15,8 +15,3 @@ This project focuses on analyzing and preprocessing a dataset related to Polycys
 - `seaborn` and `matplotlib` for visualization
 - `scikit-learn` for splitting data
 - `imblearn` for SMOTE-based class balancing
-
-## How to Run
-1. Install dependencies:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
